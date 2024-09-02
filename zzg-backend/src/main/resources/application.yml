@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: bigevent
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://134.175.121.125:3306/big_event
+    username: big_event
+    password: 123456
+
+server:
+  port: 8080
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
