@@ -10,10 +10,11 @@
 # 前后端执行前注意安装依赖
 
 <!-- 页面展示： -->
-![alt text](页面展示/image.png)
+![image](https://github.com/user-attachments/assets/d2a5f1f7-f4bf-4d1b-976e-4cf933123c9e)
 
-![alt text](页面展示/注册.png)
+![image](https://github.com/user-attachments/assets/14e1864e-bec3-4a49-9c34-11ade245c01f)
 
-![alt text](页面展示/文章分类.png)
+![image](https://github.com/user-attachments/assets/0aa50a39-fe72-443c-b176-20a9392e4128)
 
-![alt text](页面展示/文章管理.png)
+![image](https://github.com/user-attachments/assets/681ba90c-cde7-4c51-9345-dc7fd27dc1c3)
+
