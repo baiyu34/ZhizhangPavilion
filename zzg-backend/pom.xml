@@ -8,10 +8,10 @@
         <version>3.3.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.itheima</groupId>
-    <artifactId>bigevent</artifactId>
+    <groupId>com.baiyu</groupId>
+    <artifactId>zzg</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>bigevent</name>
+    <name>zzg</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>17</java.version>
@@ -104,7 +104,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.itheima.bigevent.BigeventApplication</mainClass>
+                            <mainClass>com.baiyu.zzg.ZzgApplication</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
